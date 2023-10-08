@@ -1,5 +1,6 @@
-### Hi there 👋
+# <i class="fa-solid fa-cubes"></i> Marco Woo
 
+** Computer Science Student at the University of Washington ** 
 <!--
 **marcowoo7/marcowoo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
